@@ -1,0 +1,286 @@
+"Id_usuario_works","nomb_usuario","apellido_usuario","nic_usuario","correo_usuario","telefono_usuario","clave_usuario","img_perfil","fecha_reg_usuario","desc_profesional","resumen_perfil","valor_hora_usu","Id_estado","Id_cate","Id_comuna","Id_zona_h","compania_usuario","nivel_exp","Id_proyecto","verificado","vkey","fecha_activacion","from_reg","privacidad_usuario","compartir_redes","conectividad","img_bg_perfil","estado_usuario","Id_pais"
+"1","Diego","Rojas","diegorsantander","diego@rubits.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1599514499.png","2020-09-07 18:30:03","Especialista en Innovación y Marketing Digital","Ingeniero Comercial de la Universidad de La Serena, docente de liderazgo y emprendimiento, y emprendedor desde los 20 años, hoy CEO y Fundador de Rubits, empresa dedicada al diseño, informática y marketing digital con más de 5 años de experiencia en las temáticas.","0",NULL,"3","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.634439001629727706.png","Activo","1"
+"2","Eduardo","Videla","edovidelap","director@tirolibre.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1599517178.png","2020-09-07 18:55:37","Diseñador Especialista en Marketing Digital","Diseñador Gráfico de la Universidad Santo Tomás de La Serena. Consultor certificado en Inbound Marketing (Hubspot Academy) y Fundamentos de Marketing Digital (Google Actívate). Actualmente cursando un Diplomado de Marketing Digital & eCommerce en la Universidad Adolfo Ibáñez.","0",NULL,"3","4101","1","Tiro Libre",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.997072001599516995.png","Activo","1"
+"3","Eduardo","Meneses Bruna","edomeneses","info@fizz.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1599519743.png","2020-09-07 19:33:18","Diseñador con Mención en Comunicación Visual","Licenciado en Artes y Diseño","0",NULL,"2","4102","1","Fizz Estudio G´ráfico",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.528277001599520283.png","Activo","1"
+"4","Germán","Peña Covacevich","chaska87","german@membranadigital.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1599574911.png","2020-09-08 11:04:54","Especialista en Marketing Digital","Periodista, Magíster en Comunicación Estratégica con estudios y experiencia en Marketing Digital. Interesado en la generación de contendido vinculado a emprendimiento e innovación y especializado en estrategias de marketing y comunicación en entornos digitales. Director de Membrana Digital","0",NULL,"3","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.304498001599574334.png","Activo","1"
+"6","Alberto","Villa","avillaco","avillaco.gerencia@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2020-09-14 15:43:04",NULL,NULL,NULL,NULL,"7",NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"9","Constanza","Vega Robles","conny_naturally","cvegar@alumnosuls.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2020-09-25 16:11:01",NULL,NULL,NULL,NULL,"2","4301","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","0","1","1",,"Activo","1"
+"12","Abigail","Avila","abbyweb","abbyweb.2020@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1601517535.png","2020-09-30 22:52:02","Diseño Gráfico y Web","Soy TSU en diseño gráfico, me dedico al área de diseño web creando sitios con la mejor plataforma mundialmente reconocida, WordPress, usando los maquetadores, Elementor y Divi, para crear diseño modernos y funcionales. Me especializo en la elaboración de blogs, web corporativa y tiendas online con woocommerce. Tengo disponibilidad total para trabajar desde ya!","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"13","Javier","Pereira Tapia","jpetapia","jpereiratapia@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1601518826.png","2020-09-30 23:14:09","Diseñador Gráfico","Diseñador gráfico y web con más de 10 años de experiencia en distintas empresas y agencias publicitarias.","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"15","Juan Pablo","Peña Contreras","jotapedesign","juanpablo@jotape.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1601682910.png","2020-10-02 20:53:33","Diseñador Gráfico","Diseñador con Mención con comunicación Visual, con base de operaciones en La Serena, Chile","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"16","Natalia","Alvarado Marmuth","natyalvaradom","nfalvara@uc.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1601904738.png","2020-10-05 10:24:00","Periodista","Soy una mujer periodista con espíritu emprendedor, independiente
+ y autodidacta. Me interesan la cultura, el diseño, el turismo, la 
+investigación, y los desafíos de la comunicación en el mundo digital. Me
+ apasionan los proyectos con equipos multidisciplinarios, y creo que el 
+trabajo colaborativo es clave en todo proceso creativo. Como periodista otorgo una visión estratégica de la 
+comunicación, además de una mirada crítica de la realidad, ya que 
+considero la investigación exhaustiva y profunda como una pieza clave y 
+fundamental. Los clichés, la superficialidad y los supuestos no son lo 
+mío. Tengo capacidad para aprender rápidamente nuevas herramientas, 
+sobretodo en el entorno digital, de diversa índole, debido a mi 
+formación multidisciplinaria. Me he especializado en Copywriting, Social Media, Redacción 
+Creativa y SEO. Me gusta actualizar mis conocimientos constantemente. 
+Trabajo en proyectos actualmente en 2 agencias de Marketing Digital, y 
+pronto abriré una propia.","0",NULL,"3","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"18","Nicolás","Herrera","nhalejandro","n.herrera@castcon.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2020-10-06 20:51:41",NULL,NULL,NULL,NULL,"7","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"19","Abraham","Flores","mizterabra ","mizterabraph19@gmail.com","0","5d263d13e2e6205ac8beed21935c5a55fd255d264c277206e5d67f0ae8c1d9d7","1602116581.png","2020-10-07 21:16:58","Fotógrafo ","Busco captar lo mejor de cada toma, logro adaptarme con 
+facilidad a los distintos espacios y escenarios que se me presenten, 
+siempre con la mejor actitud. Trabajo en fotografía hace ya varios años y
+ con el paso del tiempo he ido capacitándome, estudiando, analizando en 
+detalle las solicitudes del cliente, sin dejar atrás el sello que me 
+identifica. Buscar siempre la excelencia sin forzar la sesión.
+
+Hago sesiones de todo tipo, matrimonios, sesiones particulares, de 
+producto, colaboraciones, etc. En este mundo hay que saber adaptarse a 
+las necesidades del cliente.","0",NULL,"4","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"20","Andrés ","Carrion Barros","juandres_","juandres.carrion@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1602121567.png","2020-10-07 22:38:17","Diseñador Web","Diseñador Gráfico con experiencia en proyectos de Diseño, 
+Desarrollo Web y Marketing Digital. En los proyectos he cumplido 
+diferentes funciones, lo que me ha permitido adquirir diversos 
+conocimientos como: Branding, Diseño y desarrollo de Plataformas 
+E-commerce, Posicionamiento SEO/SEM y Administración de Herramientas 
+Inbound Marketing.","0",NULL,"2","5301","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"21","Carlos ","Álvarez Barrios ","carlosalvarez","carlos.alvarez.barrios12@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1602291984.png","2020-10-09 21:54:47","
+						
+						Animador 2d y Motion Designer
+					
+					","Mi nombre es Carlos Álvarez, desarrollo proyectos animados y 
+videos ilustrados conocidos como motiongraphics. Los cuales te ayudan a 
+comunicar de manera efectiva, original, única y cercana tu mensaje en 
+diversas plataformas.
+He realizado diversos proyectos y el próximo puede ser el tuyo.","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"23","José Pablo ","Herrero","jpherrero","jose.trabajosdg@gmail.com","0","102109558a9f4f66ae12c21c3a88c02bd6fc09d979ad54785239c29de6e1594a","1602727091.png","2020-10-14 22:48:44","Diseño Gráfico y Marketing Digital","Energético, me gusta mucho trabajar y lo hago escuchando música siempre. (Imagine Dragons)
+En cuanto a lo profesional me gusta capacitarme siempre, buscando cursos
+ online o asistiendo a los mismos (cuando no existía el coronavirus). 
+Creo en la importancia de estar siempre actualizado en materia de 
+marketing digital, ya que se actualizan con mucha frecuencia, y surgen 
+nuevas cosas.
+Me gusta ser proactivo, y el trabajo en equipo es algo que gusta.","0",NULL,"3","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"24","Patricia","Villena","patyvillena","pvillena@eldia.la","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1602809143.png","2020-10-15 21:29:38","Ejecutiva Comercial, Diario El Día","Ingresa el resumen de tu perfil","0",NULL,NULL,"4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"1","1",,"Activo","1"
+"25","Nicolás","Cartagena Yanes","ncartagena","nicolascartagena09@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603114208.png","2020-10-19 09:58:15","
+						
+						Periodista
+					
+					","Periodista licenciado en Comunicación Social de la Universidad de La Serena (2012) - Diplomado en Comunicación Digital de la Universidad de Chile (2015). ","0",NULL,"6","4101","1","Rubits",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"26","Nicolás ","Jeraldo Delgado","njeraldo","njeraldod@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603117774.png","2020-10-19 11:14:58","
+						Ingeniero Comercial 
+					","Ingeniero comercial con experiencia en marketing digital y ventas. ","0",NULL,"3","4102","1","Rubits",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"27","Pamela","Carvajal","pame_carvajal","pame.ca18@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603121023.png","2020-10-19 12:13:00","
+						Ingeniera en Administración de Empresas
+					","Titulada de la Universidad Tecnológica de Chile ( INACAP), con conocimiento y manejo de sistema Payroll , Dharma y e-resto. También poseo conocimiento en SAP (básico) ","0",NULL,"3","4101","1","Rubits",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"28","Francisco Javier","Benavente Araya","fjbenaventea","francisco.benavente.araya@gmail.com","0","5fd924625f6ab16a19cc9807c7c506ae1813490e4ba675f843d5a10e0baacdb8","1603123999.png","2020-10-19 13:01:39","Analista Programador","Soy desarrollador
+especializado en diseño y Desarrollo Web en PHP, HTML, CSS y JAVASCRIPT (uso de
+librería JQuery y técnica AJAX) con Base de Datos MySql o SQL.","0",NULL,"1","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.602475001603124042.png","Activo","1"
+"29","natalia ","zambra aguirre","nataliaf","natalia.zambra.aguirre@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603143736.png","2020-10-19 18:23:11","
+						Diseñadora Gráfica Profesional
+					","Trabajadora Freelance Diseño Gráfico La Serena","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","0","1",,"Activo","1"
+"30","Atricio","Paredes Farias","atricioarmando","atricio.armando@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603202572.png","2020-10-20 10:24:46","
+						Diseño en Interiores
+					","Diseñador Interior Independiente especializado en asesoria de proyectos de interiorismo y Diseño 3D ","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.098161001603202210.png","Activo","1"
+"31","Edgardo","Morales Muñoz","ed_morales","blagatass@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603205646.png","2020-10-20 11:42:37","
+						Diseñador
+					","Diseño en comunicación, Universidad de  La Serena","0",NULL,"2","4101","1","Rubits",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"32","José","Ávalos Pizarro","soyignacioavalos","javalospizarro.elec@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1627581287.png","2020-10-20 12:45:24","
+						Ingeniero en administración de empresas
+					","Joven 22 años, egresado de la Universidad de la serena, comprometido, responsable y con ganas de trabajar.","0",NULL,"7","4101","1","Rubits",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1",,"Activo","1"
+"33","Ray Andrés","Guerra Seura","rayandres97","guerras97r@gmauil.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603213666.png","2020-10-20 13:55:58","
+						Ingeniero en administración de empresa
+					","Practicante en ingeniería en administración den empresa","0",NULL,"7","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.888608001603289856.png","Activo","1"
+"34","Soffia","Chirino Montaño","soffialanotte","scchirinom@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603218119.png","2020-10-20 15:10:45","
+						Diseño Gráfico
+					","Instituto Santo Tomas, Diseño Gráfico, Ilustradora, Arte Conceptual. ","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","0","1",,"Activo","1"
+"35","Sebastián","Benavente","seba.benavente","seba.a.benavente@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603221923.png","2020-10-20 16:11:21","
+						Ingeniero en adm. de empresa
+					","Consultor de marketing","0",NULL,"3","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1","0.657129001603222238.png","Activo","1"
+"36","Isabel","Gajardo","isabel.gajardo","isabel.gajardo.ortiz@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603227350.png","2020-10-20 17:39:29","
+						
+						Diseñadora en Comunicación
+					
+					","Diseñadora Gráfica, con mención en comunicación, Diplomada en Gestión de la Innovación y la creatividad.10 años de experiencia en la industria creativa, enfocada principalmente en el diseño de marca y el emprendimiento.","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1",,"Activo","1"
+"37","Luis","Godoy","lgodoy","Lgodoy@labrujulacowork.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603305680.png","2020-10-21 15:19:10","
+						Ingeniero Comercial de la Universidad de La Ser...
+					","Titulado en Ingeniería Comercial de la Universidad de La Serena y cursando el segundo año del Magíster en Políticas Públicas y Gobernanza Territorial de la Universidad Católica del Norte (Sede Coquimbo).He participado en distintas actividades ligadas al emprendimiento en los ámbitos profesional y universitario, y entre mis habilidades y aptitudes principales destacan la capacidad de trabajar, conformar y liderar equipos de trabajo, habilidades de gestión y administración, responsabilidad y empatía con los demás, respeto por el entorno y manejo de recursos computacionales.","0",NULL,"7","4101","1","La B´rújula Cowork",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"38","Francisco","Rojo","panchorojo","francisco.rojocortes@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603310355.png","2020-10-21 16:37:25","
+						
+						
+						Diseñador Gráfico Profesional
+	...
+					","Soy Diseñador Gráfico Profesional egresado de la Universidad Tecnológica de Chile, INACAP. Nací en Ovalle actualmente vivo en La Serena, ingrese a estudiar el año 2010 y egrese el 2013. 
+
+He desarrollado varios proyectos de manera Freelance principalmente plataformas Web y elementos publicitarios, tanto dentro como fuera de la región.","0",NULL,"2","4101","1","SugarPrint EIRL",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.373958001603311052.png","Activo","1"
+"39","Michael","Araya","michaelaraya","michael@overpass.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603373858.png","2020-10-22 10:20:42","
+						
+						Desarrollador Web
+					
+					","Jovén de 19 años, con ardua experiencia laboral en el área de desarrollo de páginas web como también en proyectos.","0",NULL,"1","4102","1","Overpass",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","0","1",,"Activo","1"
+"40","Maria Fernanda","Aranda Gutierrez","mf.aranda","mf.arandagutierrez@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603376756.png","2020-10-22 11:07:25","
+						
+						Diseñadora Gráfica
+					
+					","Creativa, motivada y eficiente profesional, con una gran experiencia en diseño de páginas web.","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.619300001603376786.png","Activo","1"
+"41","Franklin","Bruna Guerrero","flnfln","escafandragrafik@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603392495.png","2020-10-22 15:28:36","
+						Diseñador
+					","Diseñador en las sombras","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","0","1",,"Activo","1"
+"42","Magdalena ","Aguirre","magdaguirrec","magdaguirrec@hotmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603397500.png","2020-10-22 16:58:20","
+						Contador General
+					","Traductora y contadora general egresada de Inacap sede La Serena. Actualmente estudiante de contador auditor de la misma institución.","0",NULL,"7","4101","1","Gestión Empresarial",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1",,"Activo","1"
+"43","Raúl Enrique","Martínez Alarcón","raul_enrique","r.martinez94@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603401859.png","2020-10-22 18:03:10","
+						Abogado
+					","Abogado independiente (Universidad Católica del Norte)Áreas: Derecho Comercial, Derecho Penal, Derecho de la Construcción.","0",NULL,"8","4101","1","Independiente",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1",,"Activo","1"
+"44","Jonnathan","Lagunas","jonn.lagunas","hola@jonnlagunas.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603719698.png","2020-10-26 10:19:02","
+						
+						
+						Especialista SEM (Google Ads)     ","Más de tres años de experiencia en la industria del Marketing Digital (Search Marketing), con foco en campañas de pago por clic y el apoyo a los objetivos de cada cliente. Experiencia desarrollando investigaciones estratégicas e implementaciones de campañas desde cero, en campañas a nivel nacional e internacional en latinoamerica. Mi enfoque laboral se centra en la calidad, innovación, la automatización de procesos y principalmente, en el manejo de campañas SEM.","0",NULL,"3","13101","1","MundoMD",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"45","Constanza","Olivares","colivares","constanza.olivares.daza@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603805667.png","2020-10-27 10:16:27","
+						
+						Coordinadora de Red de mentores Atacama
+...
+					","Vinculación de emprendedores con Mentores de la región de Atacama.Apoyo a emprendedores y seguimiento de sus proyectos.","0",NULL,NULL,"3101","1","Red de Mentores Norte",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1","0.117376001603805973.png","Activo","1"
+"47","lorena ","parada ","lorena_parada","parada.lorena@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603823675.png","2020-10-27 15:06:04","
+						INGENIERO COMERCIAL 
+					","13 años de experiencia en la banca, actuablemente me encuentro desarrollando labores en innovación, transferencia tecnológica y gestor de proyectos en dinamiza consultores .Magister (c) en liderazgo, planificación estratégica y comunicación en las organizaciones de la Universidad de La Serena.Cursando Diplomado en Transferencia tecnológica y propiedad intelectual en el  Instituto Tecnológico de Monterrey, México","0",NULL,NULL,"4102","1","dinamiza consultores ",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"1","1",,"Activo","1"
+"48","Felipe","Valdivia Godoy","vardips","Felipe@enersu.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603829354.png","2020-10-27 16:47:02","
+						Ceo Founder Enersu SpA
+					","Emprendedor social fundador de Enersu SpA, Reuzar SpA, Generarte SpA","0",NULL,NULL,"4101","1","Grupo Enersu",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"49","Valentina","Cortés Fernandois","vale_cortes","vcortes@labrujulacowork.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603832970.png","2020-10-27 17:46:12","
+						Ingeniero Comercial","Empresa que apoya a emprendedores en etapas tempranas ","0",NULL,NULL,"4101","1","La Brújula Cowork",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"0","1",,"Activo","1"
+"50","Paula","Urrutia Álvarez","papapau_","pau.carol92@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603891677.png","2020-10-28 10:15:47","
+						
+						Accesorios para perros      
+					","Confeccionamos y diseñamos accesorios para perros de índole funcional","0",NULL,NULL,"4101","1","Sociedad Arancibia y Urrutia Ltda",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","0","1","1","0.144928001603891801.png","Activo","1"
+"51","Cecilia","Pizarro Caro","mcecilia9","mcecilia9@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603895908.png","2020-10-28 11:28:00","
+						
+						
+						Ingeniero en Administración de E...
+					","Administración,
+Hotelería y Turismo, Producción de Eventos","0",NULL,NULL,"4101","1","Universidad de La Serena",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"0","1","0.039618001603896245.png","Activo","1"
+"52","Patricia","Villena","pvillena","patriciavillena50@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1603915827.png","2020-10-28 16:54:39","
+						Socia Fundadora
+					","Emprendedora, socia de la Productora Espacio Expo Crea, especializada en Ferias de Emprendedores.","0",NULL,NULL,"4101","1","Expo Crea",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"53","Diego","Mora","diegomorag","Moradiego20@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1604327876.png","2020-11-02 11:23:55","
+						INGENIERO COMERCIAL/ CHEF
+					","INGENIERO COMERCIAL TITULADO HACE 7 ANOS DE LA UNIVERSIDAD CATOLICA DEL NORTE","0",NULL,NULL,"4102","1","BAGUS",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1","0.187846001604327928.png","Activo","1"
+"54","Esteban","Flores","eflores","eflores@balfour.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1604342798.png","2020-11-02 15:22:59","
+						
+						Contador Auditor
+					
+					","Contador Auditor","0",NULL,NULL,"4101","1","Balfour Asesorias Contables SpA",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1","0.878369001604342638.png","Activo","1"
+"55","Josip","Lara","jsekul","heladoskonus@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1604350685.png","2020-11-02 17:45:57","
+						Dueño Heladería
+					","Ingeniero Agrónomo y asesor de empresas, que desarrolla un proyecto paralelo de heladería artesanal.","0",NULL,NULL,"4102","1","Helados Konus",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"1","1","0.669316001604350528.png","Activo","1"
+"56","Silvana ","Oros ","silvanaoros","silvanaorosastudillo@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1604416647.png","2020-11-03 11:52:44","
+						Psicóloga del Trabajo y las Organizaciones
+					","Profesional con experiencia en reclutamiento y selección de personal, desarrollo organizacional y desarrollo de competencias laborales. ","0",NULL,NULL,"4102","1","Escuela de Lenguaje Hispanoamericana",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"57","Angel","Arancibia Maluenda","angelarancibia","angel.arancibia.maluenda@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1604436579.png","2020-11-03 17:29:18","
+						
+						
+						Ingeniero Comercial 
+					
+					
+					","Dueño de Más Perros","0",NULL,NULL,"4101","1","Más Perros",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"1","1",,"Activo","1"
+"58","Jorge","Donoso","jdonoso","jorge.donoso.torres@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1604504184.png","2020-11-04 12:19:21","
+						Ingeniero Comercial
+					","Licenciado en Ciencias Sociales y Administrativas.Universidad de La Serena8 años de experiencia laboral.","0",NULL,NULL,"4101","1","centro de negocios",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"0","1",,"Activo","1"
+"59","Lorena Melisa ","Araya Carvajal ","lorericitos_","Lorenamelisaa@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2020-11-04 16:29:17","
+						
+						Ingeniera Comercial 
+					
+					","Emprendedora y co-fundadora de Live To Bike Store, apasionada por el estilo de vida saludable.","0",NULL,NULL,"4301","1","Live to Bike Store",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"60","Yasna","Aguilera","yaguilera","y.aguileradiaz@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1604611498.png","2020-11-05 17:56:19","
+						Contador Auditor e Ingeniero Comercial
+					","Asesor de empresas","0",NULL,NULL,"4102","1","Balfour Asesorias Contables",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"1","1",,"Activo","1"
+"61","Leandra","Bello","leandrabello","leandrabelloboutique@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2020-11-13 10:24:51","
+						Dueña de LeandraBello Collection
+					","Asesora y vendedora de vestuario femenino Inspirado en marcar la diferencia día a día con cada una de las prendas seleccionadas de manera exclusivas y en tendencia.","0",NULL,NULL,"13114","1","Leandra Bello Collection",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"62","Pilar ","Honorato González","Bbac","pilar@bbac.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1605279320.png","2020-11-13 11:38:02","
+						Ing. Civil en Gestión Industrial, Químico L.,...
+					","Periodista
+de la Universidad Pedro de Valdivia, con
+experiencia de más de 15 años en medios de comunicación y en comunicaciones
+internas del sector público y privado área sanitaria y ambiental.Ingeniero
+Civil en Gestión Industrial de la Universidad
+ARCIS, con más de 10 años en Control de Gestión y Participación Ciudadana en el
+sector público y privado.
+
+Químico
+Laboratorista de la Universidad de La Serena, con
+más de 20 años de experiencia en calidad de Aguas, especialmente en empresas
+sanitarias y en Auditorías de calidad de aguas y control de procesos en AP y
+PTAS para la SISS de acuerdo a ISO-9001/2008 
+
+Diplomada
+en Alta Dirección Pública en la Escuela de Gobierno de la Universidad de Chile.
+
+
+Actualmente colaboro con AIDIS Chile
+como Directora de  Comunicaciones
+internas y desarrollo el proyecto PRAE CORFO Bbac: Sistema de autocontrol Sanitario Rural para [pH] Gestión
+Transversal SpA.","0",NULL,NULL,"4102","1","[pH] Gestión Transversal SpA",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1","0.100616001605279150.png","Activo","1"
+"63","Nicolas ","Herrera","castcon","castcon@live.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1605551801.png","2020-11-16 15:28:03","
+						Tienda virtual WLS
+					","Tienda  virtual dedicada a la confección , venta de ropa y accesorios.","0",NULL,NULL,"4101","1","WLS",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"1","1",,"Activo","1"
+"64","Nataly","Chavez Valdivia","nchavez","nchavezvaldivia@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1605559213.png","2020-11-16 17:24:17","
+						
+						Ing.Prevención de riesgos calidad y amb...
+					","Egresada de instituto Inacap La Serena año Rhino Seguridad Electrónica nuestros servicios están enfocados en la seguridad de las personas.Servicios Sistema de Video Vigilancia.Sistema de alarma de intrusión. Sistema de alarma contra incendios.Sistema de citofonia residencial y condominios. ","0",NULL,NULL,"4101","1","Rhino Limitada",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"0","1","0.688393001605559270.png","Activo","1"
+"65","Isabel","Ulriksen","isaulriksen","isabel.ulriksen@gmail.com","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2020-11-26 15:44:28",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"66","Alejandro","Zepeda","azepeda","contacto@terracotacafe.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331","1606775780.png","2020-11-30 19:19:39","
+						
+						Propietario de Terracota Café
+					
+					","Primera cafetería de especialidad de La Serena, presentes en el mercado desde 2006.","0",NULL,NULL,"4101","1","Terracota Café",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"67","Danko","Ravlic","dravlic","dravlic@userena.cl","0","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2020-12-03 12:52:53",NULL,NULL,NULL,NULL,NULL,"4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"68","Yennifer","Gómez","traviesospet","ygomez_05@hotmail.com","0","f956b99a2a5b9ef22be01fa07292f33ac67c363f2c99b4997c2079cd3c08ecf7",NULL,"2020-12-07 17:25:16",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"69","Juan Ignacio","Franco Alvarado","juanfranco","jifrancoalvarado@gmail.com","0","df0d89848a5a412fb9a2e01fc26d5ce6227132050a3d611d3b324a7a47fab46f","1608061398.png","2020-12-15 16:38:49","
+						
+						Ingeniero Civil Industrial
+					
+					","Destaca en lo laboral por su responsabilidad, proactividad,capacidad de trabajo en equipo y por tener buenas relaciones interpersonales.Es capaz de aplicar sus habilidades y conocimientos profesionales para resolver problemáticas que se desarrollen en diversas áreas de la empresa.Busca enfrentar desafíos laborales para poder ser un aporte cada vez mayor para la empresa.Posee dominio del idioma inglés.","0",NULL,"7","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,"Activo","1"
+"70","Miguel Enrique","Koplow Weis","mkoplow","mekoplow@sociedadelsanto.com","0","f57979d604ccd7467c66e3e4b14d4ed2a88ee48b8728acfad2acf76d6b37d814",NULL,"2020-12-22 08:52:36",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"73","felipe","gallardo","FG","gallardo.castex@hotmail.com","0","8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",NULL,"2021-02-05 14:09:38",NULL,NULL,NULL,NULL,NULL,"4101","1","PT",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1",,"Activo","1"
+"74","Francisco","Marambio","FnMabo","fnmarambio@gmail.com","0","9259ff0776186da36c878a3c2d2b9e1c6993e604f81612318a9fb71ee3b64069","1613398656.png","2021-02-15 10:52:39","Analista Programador","Ingresa el resumen de tu perfil","0",NULL,"1","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","0","1","0.925018001614004982.png","Activo","1"
+"75","Benjamín","Lepe","benjalepe10","balepe@uc.cl","0","2d87d475bde0bc3fe144172f23b286eaf2ec2432eff3f93db15c68c0c746eca8","1628784638.png","2021-02-22 11:05:07","Desarrollador de Software","Soy un desarrollador de Software, con más de 1 año de experiencia 
+trabajando en proyectos de desarrollo web, visualización de información y
+ ánalisis de datos. Dentro de mis trabajos más destacados se encuentra 
+el desarrollo de páginas web e-commerce con Wordpress y la 
+implementación del chat y las notificaciones en tiempo real de esta 
+plataforma (Rubits works). Actualmente me encuentro en mi último año de 
+Ingeniería Civil en Computación en la Pontificia Universidad Católica de
+ Chile. ","0",NULL,"1","4102","1","Rubits",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1",,"Activo","1"
+"76","Gabriel","González","ggfresard","ggfresard@gmail.com","0","af94f48397b86e0817155f01b45d2a44cc98eae6f51ab7774d39965df87c6232",NULL,"2021-03-14 21:04:14",NULL,NULL,NULL,NULL,"1","4101",NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,"1","0.851858001615766722.png",,"1"
+"77","Rayén","Valenzuela ","RayenV","rayenvalenzuela59@gmail.com","0","a7fe9b1fc42a44da4d68528a312f2da9fa60b9df5d21402d3c8f7de87e35b053",NULL,"2021-03-15 14:02:08","Estudiante","Hola soy estudiante con nivel universitario, tengo conocimiento en uso de software como Word y PowerPoint, ofrezco mis servicios para traducir al español o realizar presentaciones para futuros proyectos.Eh realizado cápsulas educativas, en esta última instancia estoy en preparación de tesis y paralelo a ello me gustaría trabajar y aportar con mis conocimientos. Estoy iniciando en el mundo del Freelancer buscando nuevas oportunidades laborales.","0",NULL,"6","9115","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1",,,"1"
+"78","RUBEN PATRICIO","ARAYA ANAIS","KAKANCHIK","reservas@kakanchik.cl","0","a3675b807d425207c1b8dc042729e7075fa8ac1e34d2aed429de872e6ff0c599",NULL,"2021-03-19 16:48:49",NULL,NULL,NULL,NULL,NULL,"4101",NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,NULL,,,"1"
+"79","Alvaro","Ahumada Castillo","Álvaro","alvaroahumadac@gmail.com","0","242bfe20c0cb1a3091800896c99d95313e6362947fffac61816c420bdafed689","1624551692.png","2021-03-31 23:16:53","Ingeniero Comercial","La capacidad de lograr que tus clientes conozcan, les guste y confíen en tu marca, es lo que define el éxito de cualquier empresa. Me apasiona el área de negocios y emprendimiento, y es por ésto que me especializo en la creación, puesta en marcha y análisis de Modelos de Negocios, Estrategias de Marketing Digital y Customer Experience. Me centro en entregar soluciones prácticas, funcionales y a la medida, centrándose en los objetivos y resultados esperados de cada cliente. Me destaco en: Estrategia de Branding, Campañas de Marketing, Campañas de Email Marketing, Creación y reestructuración de Modelos de Negocios, Estrategia y Desarrollo de Experiencia Clientes. Valoro el trabajo en equipo y la comunicación. He liderado equipos de trabajo con una gran capacidad de empuje orientada al logro de objetivos.","0",NULL,"3","4101",NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"0","0.754760001624559090.png",,"1"
+"80","Valentina","Ortiz","Valentina2309","valentinaortizjerez94@gmail.com","0","8ce62481dd045a7e39431cf25761cb2b0d85510b546157340a58cd1a2b301992","1618947755.png","2021-04-20 15:37:17","Diseñadora Gráfica","Diseñadora Gráfica, Diseñadora UX y Calígrafa","0",NULL,"2","4101",NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,NULL,,,"1"
+"81","Francisca","Palacios Vergara","franciscapalacios","franciscapalaciosvergara@gmail.com","0","02a45c2aa5d6e22368d1e310320a2782b27b65eec4850d0c482b9a8ad75af553",NULL,"2021-05-02 19:12:24",NULL,NULL,NULL,NULL,NULL,"4101",NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,NULL,,,"1"
+"82","Katherine","Barrera Ordenes","Katherine","k.barrera@andesvalue.com","0","7828ed01234186d8c4fd50a2adf5f2a882d8b067ea1c8bb4769646d33ac2d763","1620070093.png","2021-05-03 15:27:13","Project Manager & Advisor","Encargada del manejo de proyectos de aceleración de territorios y coach a emprendimientos e incubadoras.","0",NULL,NULL,"4101",NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,"1",,,"1"
+"83","Rosario","Yáñez Fuentes","royanezf","rooyanez@gmail.com","0","13fd8c4c48209f890a8581138b98058bca588b5936026f666f5aa7e60b1f9a9c","1620086608.png","2021-05-03 19:35:22","Ingeniera en Diseño con Magíster en Innovacion","Soy Ingeniera en Diseño de la Universidad Adolfo Ibáñez con Magister en Innovación y Diseño del DesignLab de la misma universidad. Egrese en el año 2020 y actualmente estoy en búsqueda de nuevas oportunidades y desafíos que me permitan crecer tanto personal como profesionalmente. Además, estoy expectante de recibir y aprender nuevas herramientas. Dispongo de responsabilidad y creatividad, junto a ganas de aprender nuevas herramientas. Además, a lo largo de mi carrera a través de las prácticas que he hecho, he aprendido a trabajar en equipo. Siempre me ha apasionado todo lo que tenga que ver con el diseño, desde el arte, la fotografía, las manualidades, la moda, lo gráfico, lo audiovisual y desarrollo de proyectos junto a cada detalle que conlleva el cómo funciona y se desarrolla cada elemento logrando su finalidad.","0",NULL,"2","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1",NULL,,,"1"
+"84","pedro","araya","inuyapro","pedroaraya@fizz.cl","0","9f770325691ad6bf79244b93d5b2362602267ede305f0d30a63299fc0ac431d1",NULL,"2021-05-16 20:41:37",NULL,NULL,NULL,NULL,NULL,"4101","1",NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"1"
+"87","Pablo","Ulloa Ramírez","Pablol","pablol.ulloa@gmail.com","0","44eab0708dd07f9c82b38e928c37a00c6310b8df9fa6e6a315956518e9446708",NULL,"2021-05-19 18:53:01","Psicólogo Organizacional","Analista de Desarrollo Organizacional con basta experiencia en gestión de personas en el cumplimiento de metas organizacionales, reclutamiento y selección y otras actividades relacionadas a Recursos Humanos.","0",NULL,"6","4101","1",NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,,"1"
+"88","Francisco","Araya Araya","Francisco Araya","fjaraya.93@gmail.com","0","579412bcf1d4ae4953dfb9bcec5369a1ba389ec2fb14a1c0d4e09852c7b6cf3c","1621468656.png","2021-05-19 19:55:38","Especialista en Inteligencia de Negocios","Diseño e implementación de estrategias de crecimiento basada en data con foco en canales digitales","0",NULL,"3","4101","1",NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,NULL,,,"1"
+"89","Jully ","Gomez","Jufers","Jullygomez@gmail.com","986537470","49afe4bbb64306318827d54ca3e4c1498b588955ca836a648232bfc8b22e447e",NULL,"2021-05-27 16:08:53","MsC Gerencia Ambiental - Ing. Agrónomo","Ingresa el resumen de tu perfil","0",NULL,"6",NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"1"
+"90","Joaquín ","Rubio Mery"," Joaquín Rubio ","joaquinrubio04@gmail.com","941009945","970f8f8fcc32fd7c8d64b03d1853f20a0f69945d848d8406a879b9a00bf0eba9","1629503007.png","2021-05-28 11:49:14","Diseñador Web y Marketer Digital ","Soy un especialista en desarrollo web en Wordpress y Shopify además de tener mayor experiencia en Marketing Digital especialmente en Facebook Ads.                                                Mándame un mensaje!!","0",NULL,"3","4203","1","Aquaiir",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,,"1"
+"91","Florencia","Pelanda","Florenciapelanda","mfpelanda@gmail.com","922047759","55af293b9ac63cc12237d6b2366d79f9a91f47ae8c47dd563392cf2d91c99bf6",NULL,"2021-06-11 12:31:35","Diseñadora","Diseñadora Indusrial, Diseñadora UX UI","0",NULL,"2",NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"1"
+"92","Florencia","Serer","mfserer","florencia.serer@gmail.com","644560474","c7e52d8590eaed2bc3558eacd21b5ed7d1ac0770507440f8bc2748308090bc77","1623436031.png","2021-06-11 13:56:05","Diseñadora Gráfica","Soy Diseñadora Gráfica especializada en Marketing Digital. También desarrollo proyectos de branding, identidad, packaging y tarjetería. ","0",NULL,"2",NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,NULL,,,"1"
+"93","María Paula ","Lobo Díaz","Mpaulilobo","mpaulilobo@gmail.com","612533609","5450cf208a40d3b6707be41bc32161105e886b031e437342f24dbc21fef04a58",NULL,"2021-06-11 22:22:38",NULL,NULL,NULL,NULL,"3",NULL,NULL,NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"1"
+"94","Daniela","Vega Tirado","danvegat","d.vega.tirado@gmail.com","983961169","50df56c7c31a7c4c6f4c7335307e8439fd2a8481d1ba1718ef45c7c439253a5a","1624313457.png","2021-06-20 21:34:47","Diseñadora Gráfica","Diseñadora Gráfica del Instituto Profesional Santo Tomás de La
+Serena, con 4 años de experiencia en la industria creativa, especializada en
+diseño y creación de contenido gráfico para redes sociales. 
+
+","0",NULL,"2","4101","1","Rubits",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1",NULL,NULL,,,"1"
+"96","Daniela","Villalobos","Daniela_Villalobos","danielavillalobosmadrid1309@gmail.com","990930375","4810eb165b0df3591cb8702cc026ff9f3bec16e487abd200519e52690b93c954","1628866404.png","2021-07-23 10:57:38","Ing. Administración de Empresas","Egresada de Ingeniería en Administración de Empresas con Licenciatura en Administración Turística.","0",NULL,"7","4101","1",,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","0","1","0",,,"1"
+"97","Francisco Javier","Ruiz Arancibia","ruizarancibiaf","ruizarancibiaf@gmail.com","956830099","ea29f242ea03f2573ba5aca7f637a26c72a4bf945d9eb64ac06a1a46a001799b","1627408635.png","2021-07-27 13:56:05","Diseñador y Marketing Digital","Soy Diseñador Gráfico Publicitario desde el 2004 trabaje para Diario el Dia y Diario Ovallino de la ciudad de La Serena en el diseño y diagramacion de diario y avisos publicitarios, ademas poseo conocimiento en imprenta, agencia de diseño desempeñando funciones en el diseño de revista, volantes, agendas, papeleria, y publicidad impresa en general. Actualmente cuento con varias capacitaciones en el mundo del marketing digital, Diplomado en Marketing Digital en Iacc Santiago y Marketing Digital en Next_U, Certificado de Google Ads, Red de Display y Red de Busqueda, conocimiento en Facebook Businees y Wordprees.  Tengo conociemiento en software como Adobe Photoshop, Adobe Indesing, Adobe Ilustrator, PageMaker, QuarXprees y CorelDraw... Actualmente desarrolando mi proyecto pesonal de marketing digital y Publicidad Online ""Marketealo""..","0",NULL,"3","4101","1","marketealo",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,,"1"
+"98","benja","lepe","benjalepe100","benjalepe.m10@gmail.com","912312312","2d87d475bde0bc3fe144172f23b286eaf2ec2432eff3f93db15c68c0c746eca8",NULL,"2021-08-04 00:02:02",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"1"
+"99","Christian","Queglas Caruz","crist.queglas","crist.queglas@gmail.com","964377613","d328761d0ea76dadc9005c9e69602ec2ac5e569b848a407e8292a493d7dd9acd","1628265320.png","2021-08-06 11:50:07","Editorial","Servicios de asesor y editor.¿Dudas sobre esto?, el servicio de asesor esta resguardado por confiabilidad y confidencialidad. Puede ser una simple duda de orientación o ayuda activa.Ejemplo de asesorías: Dudas políticas, filosofía corporativa, orientación vocacional, emprendimiento, desarrollo de eventos, edición de contenido, orientación de tesis en humanidades, redacción de discursos, etc. Como editorial estamos habilitados y preparados para darte el mejor servicio y ayuda para realizar publicaciones o generar tus eventos, entre nuestros servicios puedes encontrar desde creación de logotipos, material digital, servicios RRSS, fotografía profesional, producción de eventos, implementar APPs y/o paginas web, etc. Servicios se ofrecen desde voluntariado hasta honorarios. Servicios solo a personas o pymes.","0",NULL,"2","5101","1","Editorial Res Novae",NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0","1","1","1",,,"1"
+"100","Gabriel","Piquer Franco","Fira","Gpiquer91@gmail.com","982366798","08a4acec44af624c7a4696d268c220566f309e6ea14b25157e66ea221dcbc285",NULL,"2021-08-07 21:50:01",NULL,NULL,NULL,NULL,"2",NULL,"1",NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,"1",NULL,,,"1"
+"103","Daniel","jesús","DanielCumpliendo","cumpliendo.net@gmail.com","983925796","13b519742b1f0928940f29cfcae84b3934167323ec4baa81fefa972de3934411",NULL,"2021-08-17 22:05:46",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,NULL,"1",NULL,"2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"1"
+"113","Hernán","Páez","hernanpaez","hernanpaezcampos@gmail.com","996401945","6a64b205fa3c70342c65f050ebae9b0b49edfead60077019d715f8b36a844421",NULL,"2021-09-02 12:27:34",NULL,NULL,NULL,NULL,"2",NULL,"1",NULL,NULL,NULL,"1","1107a91cacf792d2c76a60baedde8011a013bbf0c31aa","2021-09-15 16:15:15","1",NULL,NULL,NULL,,,"1"
+"130","José","Ávalos Pizarro","Ignacioavalos","javalos@rubits.cl","954393329","8a20e37eea768b1bf01a51f4ae5e49290eea7c2da9bd0e2f0d15d09b8a7a932b","1631652197.png","2021-09-05 16:52:24","Ingeniero en Administración de Empresas con Li...","Joven de 23 años, proactivo y comprometido con los proyectos individuales o colaborativos que me encuentro.","0",NULL,"5","4101","1",NULL,NULL,NULL,"1","9df1abdd60b069b65d103a91cdddda423161ebfec3000","2021-09-15 16:15:15","1","1","1",NULL,"0.064356001631652237.png",,"1"
+"131","José Pablo","Herrero","Jose","jose_pablo_herrero@hotmail.com","155631926","e11b7dbe7c5bdcd56ada5236d48824080525f29a1d53ba1b26b992d99ad83168",NULL,"2021-09-06 14:52:56",NULL,NULL,NULL,NULL,"2",NULL,"1",NULL,NULL,NULL,"1","219497390645962caee42bb07ccb6a8a6e217e95de11b","2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"2"
+"132","Alejandro ","Pereira Tapia","Jaalpeta","javier@rubits.works","985355201","15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",NULL,"2021-09-07 13:44:25","Diseñador","Ingresa el resumen de tu perfil","0",NULL,"2","4101","1",NULL,NULL,NULL,"1","0f12e89e34080ce67c4a0cc83e8b7775c2cbf7ab48fe7","2021-09-15 16:15:15","0","0",NULL,NULL,,,"1"
+"134","Carolina","Troncoso ","Caro","mctroncosor@gmail.com","989350927","8212795152f965bb9722b42f616d73552c864e09ee2734b68ab7691b7abca07e",NULL,"2021-09-09 11:59:57",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,NULL,"1","80c8b54f9c9c6f6db9a78f3c682f672e1309e638c2832","2021-09-15 16:15:15","2",NULL,NULL,NULL,,,"1"
+"135","Diego","Rojas","diegol","contacto@rubits.works","994712696","e70e76d149bfac46e1a49a81929eec0b31dd9a8639c152eafa521d8ad05dc331",NULL,"2021-09-09 18:39:32",NULL,NULL,NULL,NULL,"5","4101","1",NULL,NULL,NULL,"1","b6e61d9a28b619dc96c0668a382c53843fe6a26d21119","2021-09-15 16:15:15","0",NULL,NULL,NULL,,,"1"
+"136","Felipd","barrios","fbarrios","felipe@backtrackacademy.com","942910770","84f22af6738c8425c403cbec44e657965c3fb4c08d8e9ac85c8b6777c68731d3",NULL,"2021-09-10 10:14:22",,"Ingresa el resumen de tu perfil","0",NULL,NULL,NULL,"1",NULL,NULL,NULL,"1","e97cf4f46d606d23ea00dc1c36c64f73e02870af19ede","2021-09-15 16:15:15","0",NULL,NULL,"1",,,"1"
+"137","NICOLE FRANCISCA","BORDONES IRIARTE","NicoBordones","nicole.bordones@gmail.com","954571433","1c03f3741243215acb3e420b04cefa367703e5e42aa3e1ecc6c4f0fdd434389f",NULL,"2021-09-14 11:07:39",NULL,NULL,NULL,NULL,"7",NULL,"1",NULL,NULL,NULL,"1","cd70ecab5e1f626b5cb3c57e1d9b5ebd94c8f4d587a7f","2021-09-15 16:15:15","1",NULL,NULL,NULL,,,"1"
+"139","Freddy","Veliz","Freddy","Freddy@Rubits.works","993527201","ca77988a7634f5d1f1de2c4d9f6df65e78b9c4d76c2dc6893b46df06cf0d26e0","1631632436.png","2021-09-14 12:09:12","Project Manager","Hola!, mi nombre es Freddy y ayudo a las empresas y equipos a cumplir con sus metas y objetivos, planificando y organizando las tareas relacionadas con el proyecto. Me encanta automatizar procesos y soy muy bueno creando Dashboards, además me encanta trabajar en equipo.","0",NULL,"7","4102","1",NULL,NULL,NULL,"1","e483ca9e33cb232ce2db3513197e7fa78a3427fc71cb1","2021-09-15 16:15:15","0","1",NULL,NULL,,,"1"
+"290","Jorge","Cortes ","Jorge206","Jorgecortes553@gmail.com","989231553","eecb11b639a2cf5379ec12a998494c61a3d69d1493b06ca3704a7d23037c2290",NULL,"2021-09-15 15:58:37","Analista programador ","Ingresa el resumen de tu perfil","0",NULL,"1",NULL,"1",NULL,NULL,NULL,"1","652cc66b007ca7665da7e99b8b51c201faf479a3b3ed0","2021-09-15 16:15:15","1",NULL,NULL,NULL,,,"0"
+"291","Cata","Rojas","cata10","catarojas26@hotmail.com","123123123","574853d720890e946c58286afd720223ace57b889456bb15f0efde68c7e6717b",NULL,"2021-09-27 14:08:04",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,NULL,"1","db8bde1904d608c80aaf6ca51ecb1e0d0d3ebcfa1cbe7","0000-00-00 00:00:00","0",NULL,NULL,NULL,,,"13"
