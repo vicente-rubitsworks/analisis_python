@@ -20,7 +20,9 @@ usuarios['desc_profesional']=usuarios['desc_profesional'].str.strip()
 agrupar_por_comuna=merge.groupby(['Nombre Comuna'])[['nomb_usuario']].count()
 agrupar_por_region=merge.groupby(['Nombre Región'])[['nomb_usuario']].count()
 
-agrupar_por_cat=usuarios.groupby(['desc_profesional'], dropna=False)[['nomb_usuario']].count()
+
+usuarios['desc_profesional']=usuarios['desc_profesional'].str.upper()
+agrupar_por_cat=usuarios.groupby(['desc_profesional'])[['nomb_usuario']].count()
 
 
 #imprimir los datos
@@ -38,11 +40,11 @@ print(usuarios.isna().sum())
 
 agrupar_por_cat=agrupar_por_cat.reset_index()
 
-
+print(agrupar_por_cat)
 
 #sacar un grafico
 
-"""
+
 x=agrupar_por_cat['desc_profesional']
 y=agrupar_por_cat[agrupar_por_cat['nomb_usuario']!=1]
 
@@ -51,17 +53,16 @@ fig, ax = plt.subplots()
 
 
 
-plt.bar(y['desc_profesional'],y['nomb_usuario'],width=0.75, color="blue" )
+plt.bar(y['desc_profesional'] ,y['nomb_usuario'] ,width=0.75, color="blue" )
 
 ax.bar_label(ax.containers[0])
 
 #plt.savefig('clientes_region_bar.png')
 
 
-
+plt.show()
 
 plt.close('all')
-
 
 """
 
@@ -74,4 +75,6 @@ plt.xticks(range(len(D)), list(D.keys()))
 
 plt.xticks(rotation=60)
 
-plt.show()
+
+
+"""
